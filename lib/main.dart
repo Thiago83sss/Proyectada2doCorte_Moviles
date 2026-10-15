@@ -22,7 +22,7 @@ class YoNuncaApp extends StatelessWidget {
 }
 
 const Map<String, List<String>> frasesPorCategoria = {
-  'Suavitel': [
+  'Suavemente': [
     'Yo nunca nunca he llegado tarde a un examen.',
     'Yo nunca nunca me he quedado dormido en clase.',
     'Yo nunca nunca he mentido para no ir a una reunión.',
